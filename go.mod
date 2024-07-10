@@ -5,7 +5,7 @@ go 1.19
 replace github.com/crunchydata/postgresql-prometheus-adapter => ./
 
 require (
-	github.com/alecthomas/kingpin/v2 v2.3.2
+	github.com/alecthomas/kingpin/v2 v2.4.0
 	github.com/crunchydata/postgresql-prometheus-adapter v0.0.0-00010101000000-000000000000
 	github.com/go-kit/kit v0.12.0
 	github.com/gogo/protobuf v1.3.2
